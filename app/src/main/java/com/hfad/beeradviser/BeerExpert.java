@@ -13,7 +13,7 @@ public class BeerExpert {
         else
         {
             brands.add("hey pale ale");
-            brands.add("gout scout");
+            brands.add("gout hell scout");
         }
         return brands;
     }
